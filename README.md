@@ -10,7 +10,7 @@ Repositorio oficial del Proyecto de Intervención Profesional para la obtención
 ---
 
 ## 📋 Resumen Ejecutivo
-Este proyecto aborda la vulnerabilidad operativa y el elevado Tiempo Medio de Contención (MTTC de 45 a 90 minutos) ante incidentes de ciberseguridad en el Sistema de Gestión de Aprendizaje (LMS) Canvas y el portal de autenticación centralizada (SSO) de la Universidad Digital de las Américas (UDA). 
+Este proyecto aborda la vulnerabilidad operativa y el elevado Tiempo Medio de Contención (MTTC con un rango inicial de  45 a 90 minutos) ante incidentes de ciberseguridad en el Sistema de Gestión de Aprendizaje (LMS) Canvas y el portal de autenticación centralizada (SSO) de la Universidad Digital de las Américas (UDA). 
 
 El objetivo principal fue diseñar e implementar un Plan de Respuesta a Incidentes (IRP) especializado en Amazon Web Services (AWS) para mitigar amenazas de alta criticidad (Ransomware y ataques DDoS), asegurando la continuidad académica de 25,000 estudiantes y el cumplimiento normativo con la **LFPDPPP**, **ISO/IEC 27001** y el estándar **NIST SP 800-61 r2**.
 
